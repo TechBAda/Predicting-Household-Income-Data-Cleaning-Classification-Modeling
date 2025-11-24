@@ -8,7 +8,7 @@ Missing values are encoded as `NA`.
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 The demographic variables include:  
 - Gender  
 - Marital status  
