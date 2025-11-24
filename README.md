@@ -90,8 +90,6 @@ project/
 │ ├── income_big.csv
 │ └── income_info.txt
 │
-├── reports/
-│ └── (optional) Assignment2.pdf
 │
 └── README.md
 
